@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hard_way.iml" filepath="$PROJECT_DIR$/.idea/hard_way.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn_python_hardway.iml" filepath="$PROJECT_DIR$/.idea/learn_python_hardway.iml" />
     </modules>
   </component>
 </project>
